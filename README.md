@@ -1,4 +1,3 @@
-# [smart_llm](https://github.itap.purdue.edu/ByungcheolMinGroup/smart_llm)
 # **SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models**
 
 Shyam Sundar Kannan, Vishnunandan L. N. Venkatesh, and Byung-Cheol Min. 
