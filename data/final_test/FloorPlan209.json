@@ -1,0 +1,5 @@
+{"task": "Turn off floor lamp", "robot list" : [1,2]}
+{"task": "Break a vase and Turn on TV", "robot list" : [2,3,4], "object_states" : [{"name": "Vase", "contains": [], "state": "BROKEN"},{"name": "Television", "contains": [], "state": "ON"}], "trans":0, "max_trans":1}
+{"task": "Put the watch in the box and watering can on the coffeetable", "robot list" : [6,7], "object_states" : [{"name": "Box", "contains": ["Watch"], "state": None},{"name": "CoffeeTable,", "contains": ["WateringCan"], "state": None}], "trans":0, "max_trans":1}
+{"task": "Trash the book and newspaper", "robot list" : [8,9,10,28], "object_states" : [{"name": "GarbageCan", "contains": ["Book","Newspaper"], "state": None}], "trans":0, "max_trans":1} 
+{"task": "Put the vase on the sofa", "robot list" : [8,28], "object_states" : [{"name": "Sofa", "contains": ["Vase"], "state": None}], "trans":0, "max_trans":1}

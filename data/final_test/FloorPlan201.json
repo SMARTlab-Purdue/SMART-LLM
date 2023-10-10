@@ -1,0 +1,5 @@
+{"task": "Put the watch and Keychain inside the drawer", "robot list" : [2,3,5], "object_states" : [{"name": "Drawer", "contains": ["Watch","KeyChain"], "state": None}], "trans":0, "max_trans":0}
+{"task": "Pick up the Pillow", "robot list" : [8,7,5,10], "object_states" : [{"name": "Pillow", "contains": [], "state": "PICKED"}], "trans":0, "max_trans":0} 
+{"task": "Put the Box on the sofa and the bowl in the box", "robot list" : [8,5], "object_states" : [{"name": "Box", "contains": ["Bowl"], "state": None},{"name": "Sofa", "contains": ["Box"], "state": None}], "trans":1, "max_trans":1}
+{"task": "Put the vase on the dining table and open the book", "robot list" : [25,23], "object_states" : [{"name": "DiningTable", "contains": ["Vase"], "state": None},{"name": "Book", "contains": [], "state": "OPENED"}], "trans":0, "max_trans":0} 
+{"task": "Open the Laptop and Turn it ON. ", "robot list" : [24,25,23], "object_states" : [{"name": "Laptop", "contains": [], "state": "OPENED"},{"name": "Laptop", "contains": [], "state": "ON"}], "trans":0, "max_trans":0}

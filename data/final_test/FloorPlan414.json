@@ -1,0 +1,5 @@
+{"task": "Fill water in the BathTub", "robot list" : [1], "object_states" : [], "trans":0, "max_trans":0}
+{"task": "Throw the cloth in trash and Fill water in the BathTub", "robot list" : [1], "object_states" : [{"name": "trash", "contains": ["cloth"], "state": None}], "trans":1, "max_trans":1} 
+{"task": "Place the Bar of soap in the sink first and then place dishsponge in the sink", "robot list" : [1,2,3], "object_states" : [{"name": "Sink", "contains": ["SoapBar","ScrubBrush"], "state": None}], "trans":0, "max_trans":0}
+{"task": "Put plunger in cabinet and Turn off the light", "robot list" : [24,25], "object_states" : [{"name": "cabinet", "contains": [], "state": None},{"name": "LightSwitch", "contains": [], "state": "OFF"}], "trans":1, "max_trans":1} 
+{"task": "Turn on Sink faucet and put toilet paper in the trash", "robot list" : [23,24,25,26], "object_states" : [{"name": "Faucet", "contains": [], "state": "ON"},{"name": "GarbageCan ", "contains": ["ToiletPaper"], "state": None}], "trans":0, "max_trans":0} 

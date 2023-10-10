@@ -1,0 +1,6 @@
+{"task": "Put mug in coffee machine", "robot list" : [1], "object_states" : [{"name": "CoffeeMachine", "contains": ["Mug"], "state": None}], "trans":0, "max_trans":0}
+{"task": "Chill the apple and wash the knife", "robot list" : [1,2], "object_states" : [{"name": "Fridge", "contains": ["Apple"], "state": None}], "trans":0, "max_trans":0}
+{"task": "Put two vegetables in the fridge parallely", "robot list" : [19,24,17,27], "object_states" : [{"name": "Fridge", "contains": ["Potato","Lettuce"], "state": None}], "trans":0, "max_trans":0}
+{"task": "Wash the fork and put it in the bowl", "robot list" : [27,24,25], "object_states" : [{"name": "Bowl", "contains": ["Fork"], "state": None}], "trans":1, "max_trans":1}
+{"task": "Toast a slice of the breadloaf", "robot list" : [24,25,26], "object_states" : [{"name": "Bread", "contains": [], "state": "COOKED"}], "trans":0, "max_trans":1}
+{"task": "Slice apple and throw it in the trash", "robot list" : [26,25,27], "object_states" : [{"name": "Apple", "contains": [], "state": "SLICED"},{"name": "GarbageCan", "contains": ["Apple"], "state": None}]} 

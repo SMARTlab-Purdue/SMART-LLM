@@ -1,0 +1,3 @@
+{"task": "Slice the tomato", "robot list" : [2,3,4], "object_states" : [{"name": "Tomato", "contains": [], "state": "SLICED"}], "trans":0, "max_trans":0}
+{"task": "Wash the lettuce and place lettuce on the Countertop", "robot list" : [13,25,15], "object_states" : [{"name": "CounterTop", "contains": ["Lettuce"], "state": "None"}], "trans":0, "max_trans":0} 
+{"task": "Throw the Spatula in the trash", "robot list" : [27,25], "object_states" : [{"name": "GarbageCan", "contains": ["Spatula"], "state": "None"}], "trans":0, "max_trans":0}

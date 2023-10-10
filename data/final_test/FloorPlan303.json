@@ -1,0 +1,6 @@
+{"task": "Turn on the laptop", "robot list" : [3], "object_states" : [{"name": "Laptop", "contains": [], "state": "ON"}], "trans":0, "max_trans":0}
+{"task": "Put the baseballbat and tennis racket on the bed", "robot list" : [1,2], "object_states" : [{"name": "Bed", "contains": ["BaseballBat","TennisRacket"], "state": None}], "trans":0, "max_trans":0} 
+{"task": "Put the book in the box and Turn on the mobile phone", "robot list" : [1,2,3,4], "object_states" : [{"name": "Box", "contains": ["Book"], "state": None},{"name": "CellPhone ", "contains": [], "state": "ON"}], "trans":0, "max_trans":0}
+{"task": "Open a book in a well lit room", "robot list" : [27,23,24], "object_states" : [{"name": "Book", "contains": [], "state": "OPENED"},{"name": "LightSwitch", "contains": [], "state": "ON"}], "trans":1, "max_trans":1} 
+{"task": "Break the Cellphone and Close the blinds", "robot list" : [23,15,26], "object_states" : [{"name": "CellPhone", "contains": [], "state": "BROKEN"},{"name": "Blinds", "contains": [], "state": "CLOSED"}, "trans":0, "max_trans":0}
+{"task": "Place the laptop on the bed", "robot list" : [9,8,7], "object_states" : [{"name": "Bed", "contains": ["Laptop"], "state": None}, "trans":0, "max_trans":0}
